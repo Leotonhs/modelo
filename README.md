@@ -1,3 +1,3 @@
-# Modelo para exercício!
+# Calculo de IMC - Índice de massa corporal
 
-* Calculo de IMC javascript/css/html
+ Calculo de IMC com javascript/css/html!
