@@ -65,3 +65,8 @@ form button:hover {
   background: rgb(59, 204, 136);
   padding: 10px 20px;
 }
+
+.bad {
+  background: rgb(219, 91, 91);
+  padding: 10px 20px;
+}
