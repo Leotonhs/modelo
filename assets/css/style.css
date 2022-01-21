@@ -26,6 +26,10 @@ body {
   border-radius: 10px;
 }
 
+th{
+  text-align: left;
+}
+
 form input, form label, form button {
   display: block;
   width: 100%;
